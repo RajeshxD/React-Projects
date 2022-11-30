@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# All React Projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Corresponding Topics
 
-## Available Scripts
+#### useState
 
-In the project directory, you can run:
+1. Birthday Reminder
 
-### `npm start`
+<!-- #### useEffect and Conditional Rendering
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Tours
+3. Reviews
+4. Questions
+5. Menu
+6. Tabs
+7. Slider
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Forms
 
-### `npm test`
+8. Lorem Ipsum Generator
+9. Color Shades Generator
+10. Grocery Bud
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### useRef
 
-### `npm run build`
+11. Navbar
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### useContext
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+12. Modal And Sidebar
+13. Stripe Submenus
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### useReducer and useContext
 
-### `npm run eject`
+14. Cart
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### React Router and useCallback
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+15. Cocktails
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Advanced Projects (Course Exclusive)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+16. Markdown Preview
+17. Random Person
+18. Pagination
+19. Stock Photos
+20. Dark Mode
+21. Movie DB
+22. Hacker News
+23. Quiz -->
